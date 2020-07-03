@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Enjoy the trip to Github
+>All great power, require a great responsability.
 Use the left arrow to go back!
